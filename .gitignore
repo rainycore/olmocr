@@ -18,6 +18,11 @@ old_train/
 gpt4otestset_output/*
 pdfs/*
 olmOCR-bench/*
+MDPBench_dataset/
+MDPBench_img_public/
+MultimodalOCR/
+mdp_pdfs/
+result/
 table_data*/
 /synth*/
 dolma_samples/*
